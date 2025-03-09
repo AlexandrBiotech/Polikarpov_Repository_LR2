@@ -1,2 +1,3 @@
 Создал файл Polikarpov_newFile.txt
 Изменяю newFile
+Исправляю ошибки в файле Polikarpov_newFile.txt
