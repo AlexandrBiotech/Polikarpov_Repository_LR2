@@ -1,1 +1,2 @@
 Создал файл Polikarpov_newFile.txt
+Изменяю newFile
